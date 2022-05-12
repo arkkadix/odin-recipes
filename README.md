@@ -1,2 +1,3 @@
 # odin-recipes
 odin project practice repository 
+this project will hopefully showcase the few skills that ive learned since starting the odinproject. between terminal experience and html webpage creation i will be making a website including cooking recipes, this website should be showcasing my ability to make the website and add links, images and the start of my github commit tags. this project will start off simple, but continue to be used and added on untill completion in the far future. 
